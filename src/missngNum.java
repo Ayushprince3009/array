@@ -25,3 +25,5 @@ public class missngNum {
         System.out.println(missing);
     }
 }
+
+//missing element
